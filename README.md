@@ -4,7 +4,7 @@ This project shows an analysis on New York Citi Bike Program. here I have downlo
 Since all columns were the same, I merged all twelve csvs into one csv file using Python's Pandas library. A groupby and then sort was also done on Station Names to create a new csv file that shows visualization of top popular routes in past one year. 
 
 ## Analysis is performed on data gathered from Dec 17 till Dec 18
-![Popular Trips](Images/populartrips.jpg)
+![Popular Trips](Images/populartrips1.jpg)
 (Popular Trips.twbx)
 (https://public.tableau.com/profile/niharika.sachdeva#!/vizhome/populartrips/Dashboarddec17-dec18)
 * Above dashboard shows visualization of popular routes in descending order,
@@ -15,6 +15,7 @@ Since all columns were the same, I merged all twelve csvs into one csv file usin
 (https://public.tableau.com/profile/niharika.sachdeva#!/vizhome/PeakHourssummer/Dashboard1)
 (Peak Hours summer.twbx)
 
+![PeakWinter](Images/peakwinter.jpg)
 ![Dashboard - Peak Winter Hours(Dec2017-Feb 2018)]
 (https://public.tableau.com/profile/niharika.sachdeva#!/vizhome/PeakWinterhours/Dashboard1)
 (Peak Winter hours.twbx)
