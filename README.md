@@ -10,7 +10,7 @@ Since all columns were the same, I merged all twelve csvs into one csv file usin
 * Above dashboard shows visualization of popular routes in descending order,
 * Depicts that Male gender from Subcriber usertype has travelled the most
 * Dashboard also shows that Unknown Gender type at the age of late 40s have travelled the most.
-
+![PeakSummer](Images/Summerhours.jpg)
 ![Dashboard - Peak Summer Hours(May-July 2018)]
 (https://public.tableau.com/profile/niharika.sachdeva#!/vizhome/PeakHourssummer/Dashboard1)
 (Peak Hours summer.twbx)
