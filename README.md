@@ -20,6 +20,8 @@ Since all columns were the same, I merged all twelve csvs into one csv file usin
 (https://public.tableau.com/profile/niharika.sachdeva#!/vizhome/PeakWinterhours/Dashboard1)
 (Peak Winter hours.twbx)
 
+
+![Station Location](Images/map.jpg)
 ![Dashboard - Bike Station on Map(Dec2017-Feb 2018)]
 (Bike Stations.twbx)
 (https://public.tableau.com/profile/niharika.sachdeva#!/vizhome/BikeStations_0/Dashboard1)
